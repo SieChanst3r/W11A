@@ -1,0 +1,17 @@
+#content {
+    margin: 5px;
+    padding: 5px;
+}
+
+body {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
+#headerThree {
+    font-size: 2px;
+    padding: 5px;
+    margin: 2px;
+    border: dotted black;
+}
